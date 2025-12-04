@@ -3,7 +3,7 @@
 
 2) -- Make sure you have this structure:
 
-
+!! ATTENTION FILE NAMES !!
 project/
 │── main_game.py
 │── requirements.txt
@@ -11,7 +11,7 @@ project/
 │     ├── adventurer-idle-00.png
 │     ├── adventurer-run-00.png
 │     └── (all other sprites)(F.e: images)
-│── sounds/
+│── music/
       └── adventure.mp3 (your music)
 
 
