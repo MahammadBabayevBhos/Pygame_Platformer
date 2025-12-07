@@ -1,10 +1,10 @@
 1) -- Make sure you have Python 3.8–3.12 installed...
-
+pip install -r requirements.txt
 
 2) -- Make sure you have this structure:
 
 !! ATTENTION FILE NAMES !!
-project/
+(Your project folder)/
 │── main_game.py
 │── requirements.txt
 │── images/
@@ -16,6 +16,5 @@ project/
 
 
 3) -- Run the game using PGZero:
- 
 pgzrun main_game.py
 
