@@ -2,7 +2,7 @@
 pip install -r requirements.txt
 
 2) -- Make sure you have this structure:
-
+```
 !! ATTENTION FILE NAMES !!
 (Your project folder)/
 │── main_game.py
@@ -13,7 +13,7 @@ pip install -r requirements.txt
 │     └── (all other sprites)(F.e: images)
 │── music/
       └── adventure.mp3 (your music)
-
+```
 
 3) -- Run the game using PGZero:
 pgzrun main_game.py
